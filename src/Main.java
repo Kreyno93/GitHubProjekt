@@ -1,3 +1,4 @@
+import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
@@ -20,5 +21,9 @@ public class Main {
         System.out.println(ergebnis);
 
         System.out.println("New message");
+
+        int[] newArray = {5,4,2,1};
+
+        System.out.println(Arrays.toString(newArray));
         }
     }
