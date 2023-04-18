@@ -14,5 +14,9 @@ public class Main {
         String done = "U've done it! GZ!";
 
         System.out.println(done);
+
+        int ergebnis = num2-num1;
+
+        System.out.println(ergebnis);
         }
     }
