@@ -25,5 +25,7 @@ public class Main {
         int[] newArray = {5,4,2,1};
 
         System.out.println(Arrays.toString(newArray));
+
+        System.out.println(Das ist ein Fehler!!);
         }
     }
