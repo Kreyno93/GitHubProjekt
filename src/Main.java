@@ -18,5 +18,7 @@ public class Main {
         int ergebnis = num2-num1;
 
         System.out.println(ergebnis);
+
+        System.out.println("New message");
         }
     }
